@@ -1,11 +1,5 @@
-const mineflayer = require('mineflayer');
-
-const bot = mineflayer.createBot({
-  host: 'a123-idW8.aternos.me',
-  port: 61252,
-  username: 'afk_bot_test'
-});
-
-bot.on('spawn', () => {
-  console.log('Bot đã kết nối thành công!');
-});
+{
+  "host": "a123-idW8.aternos.me",
+  "port": 61252,
+  "username": "afk_bot_test"
+}
