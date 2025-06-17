@@ -1,5 +1,5 @@
 {
-	"ip":"a123-idW8.aternos.me",
-	"port": "61252",
-	"name": "BOT_NAME"
+  "ip": "a123-idW8.aternos.me",
+  "port": 61252,
+  "name": "AFK_Bot"
 }
